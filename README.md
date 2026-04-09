@@ -9,12 +9,6 @@ Experience the application here: [Live Preview](https://arinsarker07-oss.github.
 
 ---
 
-## 📸 Screenshot
-![Project Screenshot](https://via.placeholder.com/800x400?text=Place+Your+Project+Screenshot+Here)
-*(Tip: Replace this link with your actual screenshot image path)*
-
----
-
 ## ✨ Key Features
 - **Real-time Search:** Get definitions instantly as you type or search.
 - **Phonetics & Audio:** Listen to the correct pronunciation of words.
